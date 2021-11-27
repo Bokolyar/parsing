@@ -44,9 +44,8 @@ while True:
     for resume in resumes:
         vacation_data = {}
         position = resume.find('span', {'data-qa': 'bloko-header-3'}).getText()
-        # print(position)
         compensation = resume.find('span', {'data-qa': 'vacancy-serp__vacancy-compensation'})
-        # print(compensation)
+        link = resume.find('a')['href']
         salary_min = None
         salary_max = None
         salary_cur = None
@@ -60,12 +59,15 @@ while True:
                 salary_min = float(re.match(r'\d+', compensation).group())
                 salary_max = float(re.search(r' \d+', compensation).group())
             salary_cur = re.search(r'\D+$', compensation).group().strip()
+
         except:
             compensation = None
         vacation_data['position'] = position
         vacation_data['salary_min'] = salary_min
         vacation_data['salary_max'] = salary_max
         vacation_data['salary_cur'] = salary_cur
+        vacation_data['link'] = link
+        vacation_data['site'] = 'https://hh.ru'
         vacations.append(vacation_data)
         #pprint(vacation_data)
     page += 1
