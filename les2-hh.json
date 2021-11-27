@@ -1,0 +1,842 @@
+[
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Медицинский консультант",
+        "salary_min": 32032.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант",
+        "salary_min": 44700.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец-консультант (ТЦ Гостиный Двор)",
+        "salary_min": 49000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец - консультант в зоомагазин \"Усатый - Полосатый\"",
+        "salary_min": 30000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец - консультант",
+        "salary_min": 50000.0,
+        "salary_max": 100000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 21000.0,
+        "salary_max": 30000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в кальянный магазин Аладдин",
+        "salary_min": 25000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (Тула)",
+        "salary_min": 53000.0,
+        "salary_max": 83000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (г.Тула)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант-продавец",
+        "salary_min": 30000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант CALZEDONIA",
+        "salary_min": 40000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант, продавец (ТЦ Макси)",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант в магазин",
+        "salary_min": 30000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 25000.0,
+        "salary_max": 35000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в магазин adidas (ТЦ Демидовский)",
+        "salary_min": 31502.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант ювелирных изделий",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в ювелирный салон АДАМАС (г. Тула)",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант SUNLIGHT / САНЛАЙТ",
+        "salary_min": 35000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТЦ Демидовский)",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант одежды",
+        "salary_min": 25000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 70000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 40000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТЦ \"SPAR\")",
+        "salary_min": 29000.0,
+        "salary_max": 39500.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": 35000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": 55000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант магазина TOM TAILOR(ТЦ\"Макси\")",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (сеть \"Тутанхамон\")",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Менеджер-консультант",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в сеть магазинов корейской косметики MayaKorea",
+        "salary_min": 22000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТЦ \"Макси\")",
+        "salary_min": 37000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (Гостиный двор)",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Оптик-консультант",
+        "salary_min": 25000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТРЦ Макси)",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант Yota",
+        "salary_min": 27000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (\"Тутанхамон\" г.Тула)",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант по оргтехнике (ТЦ \"Макси\", Гипермаркет \"Офисмаг\")",
+        "salary_min": 41000.0,
+        "salary_max": 44900.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец- консультант (г. Тула)",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в салон Теле2 (Тула)",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант бездымных продуктов (IQOS)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Дизайнер-консультант",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец-консультант в магазин ZARINA в (ТЦ Макси)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Кассир-консультант",
+        "salary_min": null,
+        "salary_max": 35406.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец - консультант Мягкой мебели (ТЦ \"Мебель Молл\")",
+        "salary_min": 25000.0,
+        "salary_max": 80000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Промоутер-консультант/Продавец-консультант‎‎‎ бытовой техники (Electrolux, Zanussi, AEG)",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТЦ \"Куклы\"/ТЦ \"Демидовский\"/ ТЦ \"Макси\")",
+        "salary_min": 26000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Работник торгового зала",
+        "salary_min": 20000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Менеджер по продажам / Продавец-консультант Теле2 (Тула)",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Кредитный специалист",
+        "salary_min": 20000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Стажер в отдел продаж /Консультант в сфере недвижимости",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-универсал в Гипермаркет Магнит",
+        "salary_min": 30000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Помощник юриста по работе с клиентами",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Управляющий в магазин мебели",
+        "salary_min": 50000.0,
+        "salary_max": 70000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Главный агроном-консультант - руководитель отдела",
+        "salary_min": 150000.0,
+        "salary_max": 250000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Мастер-консультант (ДЦ KIA)",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-кассир (г.Тула)",
+        "salary_min": 28800.0,
+        "salary_max": 30800.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Программист 1С",
+        "salary_min": 115000.0,
+        "salary_max": 175000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в ювелирный салон PANDORA (ТЦ \"Гостиный Двор\")",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Оператор call-центра (удалённо)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Младший юрист",
+        "salary_min": 25000.0,
+        "salary_max": 34000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТРЦ МАКСИ)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Makeup artist (визажист – консультант)",
+        "salary_min": 65000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Главный бухгалтер",
+        "salary_min": 50000.0,
+        "salary_max": 100000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Официант BurgerKing",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Тренер/Разработчик online курсов \"Колл Инсайт\"",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Официант (Бургер Кинг)",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (МЦ МебельМолл)",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Менеджер-консультант 3 категории",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (Тула, Лейтейзена, 18)",
+        "salary_min": 26500.0,
+        "salary_max": 37000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (Тула, Советская, 10)",
+        "salary_min": 26500.0,
+        "salary_max": 32000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в детский магазин",
+        "salary_min": 21000.0,
+        "salary_max": 30000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант чат-поддержки в Яндекс Плюс",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец (г. Тула)",
+        "salary_min": 53000.0,
+        "salary_max": 83000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Аптечный консультант",
+        "salary_min": 37000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант по работе с клиентами (сервис)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Консультант 1C",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец кассир Фикс Прайс (г. Тула, Советский район)",
+        "salary_min": 22000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Фармацевт / аптечный консультант",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Директор магазина",
+        "salary_min": 60000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Фармацевт / провизор (Зареченский район)",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант в банк удалённо (входящие обращения в чате / входящие звонки)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Администратор магазина",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Программист 1С",
+        "salary_min": 115000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Фармацевт / провизор (Павшинский мост)",
+        "salary_min": 43000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Юрисконсульт отдела судебно-правовой работы с юридическими лицами Арбитражная группа",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Менеджер на удалённую работу в банк (входящие обращения, без поиска клиентов)",
+        "salary_min": 45500.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Юрист",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант автозапчастей",
+        "salary_min": 35000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Мастер-консультант малярно-кузовного цеха в ДЦ Hyundai",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-кассир",
+        "salary_min": 29300.0,
+        "salary_max": 31500.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-кассир",
+        "salary_min": 29300.0,
+        "salary_max": 31500.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец консультант магазина Магнит Косметик (Пролетарский р-он)",
+        "salary_min": 26600.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Мобильный консультант бренда IQOS",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Специалист Тульского представительства",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец-консультант (товары для охоты и рыбалки)",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Заместитель директора в магазин молодежной одежды Sinsay (ТЦ Сарафан)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец-кассир , г.Тула",
+        "salary_min": 23000.0,
+        "salary_max": 23500.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Консультант-кассир в Художественный отдел (г. Тула, ТЦ \"Макси\")",
+        "salary_min": 27000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в зоомагазин",
+        "salary_min": 25000.0,
+        "salary_max": 30000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в магазин товаров для дома",
+        "salary_min": 32000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант \"Магнит Косметик\" (ул.Перекопская)",
+        "salary_min": 26600.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант сыры/мясная гастрономия",
+        "salary_min": null,
+        "salary_max": 32400.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант (ТРЦ Макси)",
+        "salary_min": 21000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в бренд аудио-видео техники",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант SUNLIGHT / САНЛАЙТ (Красноармейский пр-кт)",
+        "salary_min": 32000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Агроном-консультант",
+        "salary_min": 100000.0,
+        "salary_max": 250000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Начинающий специалист оператор в банк (удаленно)",
+        "salary_min": 43500.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-кассир г.Тула (Московский железнодорожный вокзал)",
+        "salary_min": 23000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-консультант в офис продаж",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Онлайн-консультант банка (удаленная работа)",
+        "salary_min": 33500.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Сборщик заказов СБЕРМАРКЕТ",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Техник Центрального представительства",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Продавец-кассир г.Тула",
+        "salary_min": 23000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Юрист",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Agile Lead (Head of Agile)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Стационарный мерчендайзер (Гипермаркет Глобус)",
+        "salary_min": 23280.0,
+        "salary_max": 23280.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Менеджер по продажам услуг для интернет-магазинов",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Менеджер по продажам/Технический консультант (Тула)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Консультант чат-поддержки в Яндекс.Афишу",
+        "salary_min": 20000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Налоговый консультант",
+        "salary_min": 42000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец-кассир (Зеленстрой)",
+        "salary_min": 29300.0,
+        "salary_max": 31500.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Продавец кассир Фикс Прайс (г. Тула, Пролетарский район)",
+        "salary_min": 22000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Водитель-курьер СБЕРМАРКЕТ",
+        "salary_min": 38000.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Программист-консультант 1С, удаленно",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null
+    },
+    {
+        "position": "Аналитик 1C/Консультант 1C",
+        "salary_min": null,
+        "salary_max": 160000.0,
+        "salary_cur": "руб."
+    },
+    {
+        "position": "Юрист",
+        "salary_min": 57500.0,
+        "salary_max": null,
+        "salary_cur": "руб."
+    }
+]
