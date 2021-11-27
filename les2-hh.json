@@ -1,0 +1,1122 @@
+[
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб.",
+        "link": "https://hhcdn.ru/click?b=261340&place=35",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Медицинский консультант",
+        "salary_min": 32032.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48216398?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант",
+        "salary_min": 44700.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49690600?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/48215593?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/47495337?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в кальянный магазин Аладдин",
+        "salary_min": 25000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49998106?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (Тула)",
+        "salary_min": 53000.0,
+        "salary_max": 83000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47425921?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТЦ Гостиный Двор)",
+        "salary_min": 49000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/45845573?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49647819?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец - консультант в зоомагазин \"Усатый - Полосатый\"",
+        "salary_min": 30000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49400028?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец - консультант",
+        "salary_min": 50000.0,
+        "salary_max": 100000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/44222976?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49898628?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49970769?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант Тинькофф Банк",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48455720?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 21000.0,
+        "salary_max": 30000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49469410?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 37800.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48492352?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/41553255?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант CALZEDONIA",
+        "salary_min": 40000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49384084?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (г.Тула)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46951107?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир/продавец-консультант (ТЦ Макси)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49967356?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49821111?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант, продавец (ТЦ Макси)",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49431388?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48899608?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант в магазин",
+        "salary_min": 30000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/41553679?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 25000.0,
+        "salary_max": 35000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49794063?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47252080?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в магазин adidas (ТЦ Демидовский)",
+        "salary_min": 31502.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46459039?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант ювелирных изделий",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49617796?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49828459?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49412595?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в ювелирный салон АДАМАС (г. Тула)",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48758720?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант SUNLIGHT / САНЛАЙТ",
+        "salary_min": 35000.0,
+        "salary_max": 60000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49672796?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49561964?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТЦ Демидовский)",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48899593?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант одежды",
+        "salary_min": 25000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49239870?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 70000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48587656?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 40000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49749382?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТЦ \"SPAR\")",
+        "salary_min": 29000.0,
+        "salary_max": 39500.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46982932?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 30000.0,
+        "salary_max": 35000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47494874?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант",
+        "salary_min": 35000.0,
+        "salary_max": 55000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49454116?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант магазина TOM TAILOR(ТЦ\"Макси\")",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47209120?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (сеть \"Тутанхамон\")",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47769137?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Менеджер-консультант",
+        "salary_min": 34000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49138458?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в сеть магазинов корейской косметики MayaKorea",
+        "salary_min": 22000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49941924?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТЦ \"Макси\")",
+        "salary_min": 37000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/45844090?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (Гостиный двор)",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/44655242?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Оптик-консультант",
+        "salary_min": 25000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49356005?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТРЦ Макси)",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47321101?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант Yota",
+        "salary_min": 27000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48754817?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (\"Тутанхамон\" г.Тула)",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47861610?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант по оргтехнике (ТЦ \"Макси\", Гипермаркет \"Офисмаг\")",
+        "salary_min": 41000.0,
+        "salary_max": 44900.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/45645767?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец- консультант (г. Тула)",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46265913?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в салон Теле2 (Тула)",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48303924?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант бездымных продуктов (IQOS)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48341993?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Дизайнер-консультант",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/46017269?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в магазин ZARINA в (ТЦ Макси)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49827439?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Кассир-консультант",
+        "salary_min": null,
+        "salary_max": 35406.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46478246?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец - консультант Мягкой мебели (ТЦ \"Мебель Молл\")",
+        "salary_min": 25000.0,
+        "salary_max": 80000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/40262685?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Промоутер-консультант/Продавец-консультант‎‎‎ бытовой техники (Electrolux, Zanussi, AEG)",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49050289?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТЦ \"Куклы\"/ТЦ \"Демидовский\"/ ТЦ \"Макси\")",
+        "salary_min": 26000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47382196?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Работник торгового зала",
+        "salary_min": 20000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49830406?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Кредитный специалист",
+        "salary_min": 20000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47381882?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Стажер в отдел продаж /Консультант в сфере недвижимости",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47275639?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Менеджер по продажам / Продавец-консультант Теле2 (Тула)",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47246845?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-универсал в Гипермаркет Магнит",
+        "salary_min": 30000.0,
+        "salary_max": 45000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46276697?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Помощник юриста по работе с клиентами",
+        "salary_min": 30000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49075046?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Управляющий в магазин мебели",
+        "salary_min": 50000.0,
+        "salary_max": 70000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49992383?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Главный агроном-консультант - руководитель отдела",
+        "salary_min": 150000.0,
+        "salary_max": 250000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49540685?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Мастер-консультант (ДЦ KIA)",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49553022?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир (г.Тула)",
+        "salary_min": 28800.0,
+        "salary_max": 30800.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49842656?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Программист 1С",
+        "salary_min": 115000.0,
+        "salary_max": 175000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49015673?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Оператор call-центра (удалённо)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48968938?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Младший юрист",
+        "salary_min": 25000.0,
+        "salary_max": 34000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49626664?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в ювелирный салон PANDORA (ТЦ \"Гостиный Двор\")",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49898565?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТРЦ МАКСИ)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48004053?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Главный бухгалтер",
+        "salary_min": 50000.0,
+        "salary_max": 100000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49998083?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Makeup artist (визажист – консультант)",
+        "salary_min": 65000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48303798?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Официант BurgerKing",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49613192?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Тренер/Разработчик online курсов \"Колл Инсайт\"",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49146979?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Официант (Бургер Кинг)",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49402884?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (МЦ МебельМолл)",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49762506?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Менеджер-консультант 3 категории",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49829769?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (Тула, Лейтейзена, 18)",
+        "salary_min": 26500.0,
+        "salary_max": 37000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49824295?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (Тула, Советская, 10)",
+        "salary_min": 26500.0,
+        "salary_max": 32000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49824646?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в детский магазин",
+        "salary_min": 21000.0,
+        "salary_max": 30000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49817668?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант чат-поддержки в Яндекс Плюс",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47951873?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец (г. Тула)",
+        "salary_min": 53000.0,
+        "salary_max": 83000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/41479693?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Аптечный консультант",
+        "salary_min": 37000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/45412562?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант по работе с клиентами (сервис)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49836683?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант 1C",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49835616?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец кассир Фикс Прайс (г. Тула, Советский район)",
+        "salary_min": 22000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49845693?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Фармацевт / аптечный консультант",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48511849?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Директор магазина",
+        "salary_min": 60000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/42582674?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Фармацевт / провизор (Зареченский район)",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/40157730?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант в банк удалённо (входящие обращения в чате / входящие звонки)",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48028697?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Администратор магазина",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/39480503?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Программист 1С",
+        "salary_min": 115000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/43595833?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Фармацевт / провизор (Павшинский мост)",
+        "salary_min": 43000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/40712970?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Юрисконсульт отдела судебно-правовой работы с юридическими лицами Арбитражная группа",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49818282?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Менеджер на удалённую работу в банк (входящие обращения, без поиска клиентов)",
+        "salary_min": 45500.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49810152?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Юрист",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48646240?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант автозапчастей",
+        "salary_min": 35000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48545385?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Мастер-консультант малярно-кузовного цеха в ДЦ Hyundai",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49186549?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир",
+        "salary_min": 29300.0,
+        "salary_max": 31500.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48950620?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир",
+        "salary_min": 29300.0,
+        "salary_max": 31500.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46670652?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец консультант магазина Магнит Косметик (Пролетарский р-он)",
+        "salary_min": 26600.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46259602?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Мобильный консультант бренда IQOS",
+        "salary_min": 45000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47916158?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Специалист Тульского представительства",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/46552599?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (товары для охоты и рыбалки)",
+        "salary_min": 30000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49615405?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Заместитель директора в магазин молодежной одежды Sinsay (ТЦ Сарафан)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49639995?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир , г.Тула",
+        "salary_min": 23000.0,
+        "salary_max": 23500.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48915403?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант-кассир в Художественный отдел (г. Тула, ТЦ \"Макси\")",
+        "salary_min": 27000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48661583?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в зоомагазин",
+        "salary_min": 25000.0,
+        "salary_max": 30000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49603695?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в магазин товаров для дома",
+        "salary_min": 32000.0,
+        "salary_max": 40000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49563745?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант \"Магнит Косметик\" (ул.Перекопская)",
+        "salary_min": 26600.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49722634?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант сыры/мясная гастрономия",
+        "salary_min": null,
+        "salary_max": 32400.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47640166?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант (ТРЦ Макси)",
+        "salary_min": 21000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49544342?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в бренд аудио-видео техники",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/43191843?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант SUNLIGHT / САНЛАЙТ (Красноармейский пр-кт)",
+        "salary_min": 32000.0,
+        "salary_max": 50000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49508657?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Агроном-консультант",
+        "salary_min": 100000.0,
+        "salary_max": 250000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49539771?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Начинающий специалист оператор в банк (удаленно)",
+        "salary_min": 43500.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49379582?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир г.Тула (Московский железнодорожный вокзал)",
+        "salary_min": 23000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49391958?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-консультант в офис продаж",
+        "salary_min": 35000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49347812?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Онлайн-консультант банка (удаленная работа)",
+        "salary_min": 33500.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49348327?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Сборщик заказов СБЕРМАРКЕТ",
+        "salary_min": 25000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/43474203?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Техник Центрального представительства",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/48343432?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир г.Тула",
+        "salary_min": 23000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49333327?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Юрист",
+        "salary_min": 50000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49294014?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Agile Lead (Head of Agile)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49341723?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Стационарный мерчендайзер (Гипермаркет Глобус)",
+        "salary_min": 23280.0,
+        "salary_max": 23280.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49282316?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Менеджер по продажам услуг для интернет-магазинов",
+        "salary_min": 40000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/47851641?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Менеджер по продажам/Технический консультант (Тула)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/48529683?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Консультант чат-поддержки в Яндекс.Афишу",
+        "salary_min": 20000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49204818?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Налоговый консультант",
+        "salary_min": 42000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49189313?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец-кассир (Зеленстрой)",
+        "salary_min": 29300.0,
+        "salary_max": 31500.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/46646600?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Продавец кассир Фикс Прайс (г. Тула, Пролетарский район)",
+        "salary_min": 22000.0,
+        "salary_max": 26000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49244443?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Водитель-курьер СБЕРМАРКЕТ",
+        "salary_min": 38000.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/43947010?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Программист-консультант 1С, удаленно",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_cur": null,
+        "link": "https://tula.hh.ru/vacancy/49193178?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Аналитик 1C/Консультант 1C",
+        "salary_min": null,
+        "salary_max": 160000.0,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/49162308?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    },
+    {
+        "position": "Юрист",
+        "salary_min": 57500.0,
+        "salary_max": null,
+        "salary_cur": "руб.",
+        "link": "https://tula.hh.ru/vacancy/48576000?from=vacancy_search_list&query=%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82",
+        "site": "https://hh.ru"
+    }
+]
