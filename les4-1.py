@@ -18,15 +18,22 @@ dom = html.fromstring(response.text)
 news = dom.xpath("//section[contains(@class, 'b-top7-for-main')]//div[contains(@class, 'item')]")
 news_list = []
 
+news_author_type = 0  # 0 - author = lenta.ru, 1 - другой источник.
 for news_item in news:
     news_dict = {}
     news_name = news_item.xpath(".//a/text()")
     news_link = news_item.xpath(".//a/@href")
+    if news_link[:4] == 'http':
+        news_author = news_link[:news_link.find('/', 9)]
+        news_author_type = 1
+    else:
+        news_author = url
     news_date = news_item.xpath(".//time[@class='g-time']/@datetime")
-    news_author = url
-
     news_dict['news_name'] = news_name[0].replace(u'\xa0', ' ')
-    news_dict['news_link'] = url+news_link[0]
+    if news_author_type == 1:
+        news_dict['news_link'] = news_link[0]
+    else:
+        news_dict['news_link'] = url+news_link[0]
     news_dict['news_date'] = news_date[0]
     news_dict['news_author'] = news_author
 
@@ -48,3 +55,4 @@ print(f'Добавлено новых {n} новостей')
 
 for db_news_item in dbnews.find({}):
     pprint(db_news_item)
+
