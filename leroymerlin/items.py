@@ -28,5 +28,5 @@ class LeroymerlinItem(scrapy.Item):
     url = scrapy.Field(output_processor=TakeFirst())
     photos = scrapy.Field(input_processor=MapCompose(process_photos))
     id = scrapy.Field(output_processor=TakeFirst())
-
+    specs = scrapy.Field()
 
