@@ -8,12 +8,25 @@
 import os
 
 import scrapy
-from itemadapter import ItemAdapter
+# from itemadapter import ItemAdapter
 from scrapy.pipelines.images import ImagesPipeline
+from lxml import html
+
 
 class LeroymerlinPipeline:
     def process_item(self, item, spider):
+        item['specs'] = self.process_specs(item['specs'])
         return item
+
+    def process_specs(self, specs):
+        specs_dict = {}
+        for item in specs:
+            dom = html.fromstring(item)
+            key = dom.xpath("//dt[@class='def-list__term']/text()")[0]
+            value = dom.xpath("//dd[@class='def-list__definition']/text()")[0].strip()
+            specs_dict[key] = value
+        return specs_dict
+
 
 class LeroymerlinPhotos(ImagesPipeline):
     def get_media_requests(self, item, info):
