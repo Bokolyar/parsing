@@ -28,6 +28,6 @@ class LmerlinSpider(scrapy.Spider):
         loader.add_xpath('price', "//uc-pdp-price-view[@class='primary-price']/span[@slot='price']/text()")
         loader.add_value('url', response.url)
         loader.add_xpath('id', "//span[@slot='article']/@content")
-        # loader.add_xpath('characteristics', "//section[@id='nav-characteristics']//div[@class='def-list__group']")
+        loader.add_xpath('specs', "//section[@id='nav-characteristics']//div[@class='def-list__group']")
         yield loader.load_item()
 
